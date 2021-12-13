@@ -12,6 +12,7 @@ untuk lebih lanjut silahkan kunjungi notebook yang saya buat:
 mengunakan model selection untuk mencari model yang bagus berdasarkan "log_loss" dan hyper-parameters tuning untuk meningkatkan model. 
 untuk lebih lanjut silahkan kunjungi notebook yang saya buat: 
 
+https://github.com/sultanbst123/MachineHack-Loan/blob/main/Loan_prediction.ipynb
 
 ## Dataset & information
 
